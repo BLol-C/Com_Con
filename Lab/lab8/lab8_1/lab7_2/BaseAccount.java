@@ -1,0 +1,6 @@
+package lab8.lab8_1.lab7_2;
+
+public abstract class BaseAccount implements Withdrawable{
+    public abstract boolean deposit(double amount);
+
+}
